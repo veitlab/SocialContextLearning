@@ -1,0 +1,7 @@
+Birds	BP	target_syl
+bird1	x	a
+bird2	x	lllagyx
+bird3	a	c
+bird4	c	d
+bird5	x	j
+bird6	x	f
